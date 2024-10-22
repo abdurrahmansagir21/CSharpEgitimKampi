@@ -33,11 +33,12 @@ Bu ders kapsamında metotlara giriş yaptık ve geriye değer döndüren, geriye
 </p>
 
 ## 📌 İçindekiler
-- [Proje 1: Temel Konular](#01_mainsubjects)
-- [Proje 2: Değişkenler](#02_variables)
-- [Proje 3: Karar Yapıları](#03_makingdesicion)
-- [Proje 4: Döngüler](#04_loops)
-- [Proje 5: Döngülerle Yıldız Şekilleri Çizme](#05_loopswithstars)
-- [Proje 6: Diziler](#06_arrays)
-- [Proje 7: Foreach Döngüsü](#07_foreachloop)
-- [Proje 8: Metotlar](#08_methods)
+- [Proje 1: Temel Konular](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/01_MainSubjects)
+- [Proje 2: Değişkenler](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/02_Variables)
+- [Proje 3: Karar Yapıları](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/03_MakingDecision)
+- [Proje 4: Döngüler](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/04_Loops)
+- [Proje 5: Döngülerle Yıldız Şekilleri Çizme](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/05_LoopsWithStars)
+- [Proje 6: Diziler](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/06_Arrays)
+- [Proje 7: Foreach Döngüsü](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/07_ForeachLoop)
+- [Proje 8: Metotlar](https://github.com/abdurrahmansagir21/CSharpEgitimKampi/tree/master/08_Methods)
+
